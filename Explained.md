@@ -29,7 +29,7 @@ We can use this advantage to create a world with the same name and generate **de
 
 ![](https://raw.githubusercontent.com/TRSTN4/FileUnifyingMinecraft/main/img/2022-11-10%2000_30_26-Minecraft%201.19.2%20marked.png?)
 
-After creating the new world, you can see that there is no extra world name, but the same folder with two (rendered) world chunks in one.
+After creating the new world, you can see that there is no extra world name, but the same folder with two worlds in one (The whole modern world + (**1.6.4**) chunks).
 
 ![](https://raw.githubusercontent.com/TRSTN4/FileUnifyingMinecraft/main/img/2022-11-10%2001_06_56-saves.png?)
 
