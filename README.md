@@ -1,6 +1,6 @@
 # Start
 
-We suggest to follow the order to understand how to use it and how it works.
+I suggest to follow the order to understand how to use it and how it works.
 
 1. [Impact](Impact.md)
 2. [Explained](Explained.md)
